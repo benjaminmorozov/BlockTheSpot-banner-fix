@@ -1,3 +1,4 @@
+:: last updated 07/04/2022 DD/MM/YYYY
 ;;;===,,,@echo off
 ;;;===,,,findstr /v "^;;;===,,," "%~f0" > "%~dp0ps.ps1"
 ;;;===,,,PowerShell.exe -ExecutionPolicy Bypass -Command "& '%~dp0ps.ps1'"

@@ -1,7 +1,7 @@
 # BlockTheSpot banner fix
 
 A multi-purpose **adblocker** and **skip-bypass** for the **Windows Spotify desktop application**.
-Last tested version: **1.1.64.561.g71bd09eb-a**
+Last tested version: **Spotify for Windows 1.1.81.604.gccacfc8c**
 
 ## Important checks before installation:
 
